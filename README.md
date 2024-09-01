@@ -14,6 +14,7 @@
 5. A. W. Malik, A. U. Rahman, **M. Ali**, and M. M. Santos, "Symbiotic robotics network for efficient task offloading in smart industry", IEEE Transactions on Industrial Informatics, vol. 17, no. 7, pp. 4594–4601, 2020.
 6. **M. Ali**, A. W. Malik, A. U. Rahman, S. Iqbal, and M. M. Hamayun, "Position-based emergency message dissemination for Internet of Vehicles", International Journal of Distributed Sensor Networks, vol. 15, no. 7, p. 1550147719861585, 2019.
 7. S. S. Shah, **M. Ali**, A. W. Malik, M. A. Khan, and S. D. Ravana, "Vfog: A vehicle-assisted computing framework for delay-sensitive applications in smart cities", IEEE Access, vol. 7, pp. 34900–34909, 2019.
+8. Amjad, Sehrish, Ahmed Akhtar, Muhammad Ali, Basit Shafiq, Shafay Shamail, Ayesha Afzal, and Jaideep Vaidya. "Orchflow: Orchestration and Management of IoT-Centric Distributed Workflows." In 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS), pp. 1435-1438. IEEE, 2024.
 
 ---
 ## Experience
