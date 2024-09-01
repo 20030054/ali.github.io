@@ -1,8 +1,8 @@
 # Muhammad Ali
-Muhammad Ali
 
-Email: malijutt@outlook.com
-Phone: +92 313-4203013
+
+##Email: malijutt@outlook.com
+##Phone: +92 313-4203013
 
 👨‍🎓 Education
 PhD in Computer Science
