@@ -5,7 +5,7 @@ Email: malijutt@outlook.com
 Phone: +92 313-4203013
 
 👨‍🎓 **Education**
-PhD in Computer Science
+**PhD in Computer Science**
 Lahore University of Management Science (LUMS), Lahore, Pakistan
 2021 - Current
 
