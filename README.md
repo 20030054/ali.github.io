@@ -1,23 +1,23 @@
 # Muhammad Ali
 
 
-##Email: malijutt@outlook.com
-##Phone: +92 313-4203013
+Email: malijutt@outlook.com
+Phone: +92 313-4203013
 
-👨‍🎓 Education
+👨‍🎓 **Education**
 PhD in Computer Science
 Lahore University of Management Science (LUMS), Lahore, Pakistan
 2021 - Current
 
 Majors: Distributed Systems, IoV, IoT, Edge Computing, Cloud Computing, VANET
 Thesis: Scalable and fault-tolerant orchestration and management of distributed workflows in cloud-edge continuum
-MS in Information Technology
+**MS in Information Technology**
 National University of Science and Technology (NUST), Islamabad, Pakistan
 2016 - 2019
 
 Majors: Distributed Systems, IoV, VANET, IoT
 Thesis: Position-based emergency message dissemination in Internet of Vehicles
-BS in Computer Science
+**BS in Computer Science**
 COMSATS University Islamabad (CUI), Lahore, Pakistan
 2011 - 2015
 
