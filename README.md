@@ -1,4 +1,4 @@
-# Muhammad Ali's Professional Profile
+# Muhammad Ali
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-alijutt/)](https://www.linkedin.com/in/muhammad-alijutt/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=q8_mB20AAAAJ&hl=en)](https://scholar.google.com/citations?user=q8_mB20AAAAJ&hl=en)
