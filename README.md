@@ -5,25 +5,17 @@
 [![Email Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:malijutt@outlook.com)](mailto:malijutt@outlook.com)
 
 ---
+## Publications
 
-## Education
-
-### Lahore University of Management Science (LUMS), Lahore, Pakistan
-**PhD in Computer Science** (2021–Current)  
-- Majors: Distributed Systems, IoV, IoT, Edge Computing, Cloud Computing, VANET  
-- **Thesis**: Scalable and fault-tolerant orchestration and management of distributed workflows in cloud-edge continuum
-
-### National University of Science and Technology (NUST), Islamabad, Pakistan
-**MS in Information Technology** (2016–2019)  
-- Majors: Distributed Systems, IoV, VANET, IoT  
-- **Thesis**: Position-based emergency message dissemination in Internet of Vehicles
-
-### COMSATS University Islamabad (CUI), Lahore, Pakistan
-**B.S. in Computer Science** (2011–2015)  
-- **FYP**: Providing controls to user through hand gestures using Microsoft KINECT
+1. **M. Ali**, A. W. Malik, and A. U. Rahman, "Clustering-based re-routing framework for network traffic congestion avoidance on urban vehicular roads", The Journal of Supercomputing, vol. 79, no. 18, pp. 21144–21165, 2023.
+2. S. Amjad, A. Akhtar, **M. Ali**, A. Afzal, B. Shafiq, J. Vaidya, S. Shamail, and O. Rana, "Orchestration and management of adaptive IoT-centric distributed applications", IEEE Internet of Things Journal, 2023.
+3. T. Qayyum, Z. Trabelsi, A. Tariq, **M. Ali**, K. Hayawi, and I. U. Din, "Flexible global aggregation and dynamic client selection for federated learning in Internet of Vehicles", Computers, Materials and Continua, vol. 77, no. 2, p. 1739, 2023.
+4. Z. Trabelsi, T. Qayyum, K. Hayawi, and **M. Ali**, "Global aggregation node selection scheme in federated learning for vehicular ad hoc networks (VANETs)", in 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS), IEEE, 2022, pp. 1–6.
+5. A. W. Malik, A. U. Rahman, **M. Ali**, and M. M. Santos, "Symbiotic robotics network for efficient task offloading in smart industry", IEEE Transactions on Industrial Informatics, vol. 17, no. 7, pp. 4594–4601, 2020.
+6. **M. Ali**, A. W. Malik, A. U. Rahman, S. Iqbal, and M. M. Hamayun, "Position-based emergency message dissemination for Internet of Vehicles", International Journal of Distributed Sensor Networks, vol. 15, no. 7, p. 1550147719861585, 2019.
+7. S. S. Shah, **M. Ali**, A. W. Malik, M. A. Khan, and S. D. Ravana, "Vfog: A vehicle-assisted computing framework for delay-sensitive applications in smart cities", IEEE Access, vol. 7, pp. 34900–34909, 2019.
 
 ---
-
 ## Experience
 
 ### Beaconhouse National University, School of Computer and IT, Lahore, Pakistan
@@ -53,18 +45,6 @@
 ### National University of Science and Technology (NUST), SEECS, Islamabad, Pakistan
 **Teaching Assistant** (Jan 2017 - May 2018)  
 - Courses: Adv. Computer Networks, Distributed Systems.
-
----
-
-## Publications
-
-1. **M. Ali**, A. W. Malik, and A. U. Rahman, "Clustering-based re-routing framework for network traffic congestion avoidance on urban vehicular roads", The Journal of Supercomputing, vol. 79, no. 18, pp. 21144–21165, 2023.
-2. S. Amjad, A. Akhtar, **M. Ali**, A. Afzal, B. Shafiq, J. Vaidya, S. Shamail, and O. Rana, "Orchestration and management of adaptive IoT-centric distributed applications", IEEE Internet of Things Journal, 2023.
-3. T. Qayyum, Z. Trabelsi, A. Tariq, **M. Ali**, K. Hayawi, and I. U. Din, "Flexible global aggregation and dynamic client selection for federated learning in Internet of Vehicles", Computers, Materials and Continua, vol. 77, no. 2, p. 1739, 2023.
-4. Z. Trabelsi, T. Qayyum, K. Hayawi, and **M. Ali**, "Global aggregation node selection scheme in federated learning for vehicular ad hoc networks (VANETs)", in 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS), IEEE, 2022, pp. 1–6.
-5. A. W. Malik, A. U. Rahman, **M. Ali**, and M. M. Santos, "Symbiotic robotics network for efficient task offloading in smart industry", IEEE Transactions on Industrial Informatics, vol. 17, no. 7, pp. 4594–4601, 2020.
-6. **M. Ali**, A. W. Malik, A. U. Rahman, S. Iqbal, and M. M. Hamayun, "Position-based emergency message dissemination for Internet of Vehicles", International Journal of Distributed Sensor Networks, vol. 15, no. 7, p. 1550147719861585, 2019.
-7. S. S. Shah, **M. Ali**, A. W. Malik, M. A. Khan, and S. D. Ravana, "Vfog: A vehicle-assisted computing framework for delay-sensitive applications in smart cities", IEEE Access, vol. 7, pp. 34900–34909, 2019.
 
 ---
 
@@ -98,7 +78,23 @@
 - **Others**: LaTeX, Linux, Remote Device Configuration, Raspberry Pi Configuration and Setup
 
 ---
+## Education
 
+### Lahore University of Management Science (LUMS), Lahore, Pakistan
+**PhD in Computer Science** (2021–Current)  
+- Majors: Distributed Systems, IoV, IoT, Edge Computing, Cloud Computing, VANET  
+- **Thesis**: Scalable and fault-tolerant orchestration and management of distributed workflows in cloud-edge continuum
+
+### National University of Science and Technology (NUST), Islamabad, Pakistan
+**MS in Information Technology** (2016–2019)  
+- Majors: Distributed Systems, IoV, VANET, IoT  
+- **Thesis**: Position-based emergency message dissemination in Internet of Vehicles
+
+### COMSATS University Islamabad (CUI), Lahore, Pakistan
+**B.S. in Computer Science** (2011–2015)  
+- **FYP**: Providing controls to user through hand gestures using Microsoft KINECT
+
+---
 ## References
 
 - **Dr. Asad Waqar Malik**  
